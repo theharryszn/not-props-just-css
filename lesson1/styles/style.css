@@ -1,0 +1,19 @@
+* {
+    color: coral;
+}
+
+h1.heading {
+    background-color: crimson;
+}
+
+.blue-text {
+    color: blue;
+}
+
+h1 , p {
+    color: slateblue;
+}
+
+#box1, p, .heading {
+    font-size: 20px;
+}
